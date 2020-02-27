@@ -1,6 +1,7 @@
 export default function SimpleModule(moduleOptions) {
   console.log('MODULE STUFF', moduleOptions);
   console.log('THIS IS MY CONTRIBUTION');
+  console.log('kakogo huya');
 }
 
 // REQUIRED if publishing the module as npm package
